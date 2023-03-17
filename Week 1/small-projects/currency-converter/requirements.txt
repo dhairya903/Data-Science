@@ -1,4 +1,4 @@
-streamlit==0.68.1
+streamlit==0.81.0
 pandas
 lxml
 requests==2.22.0
