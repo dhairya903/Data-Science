@@ -4,3 +4,4 @@ lxml
 requests==2.22.0
 json5==0.9.4
 Pillow
+pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
